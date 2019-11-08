@@ -1,0 +1,12 @@
+{
+  "name": "sarc",
+  "version": "1.0.0",
+  "description": "Turn input into sarcasm",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neno",
+  "license": "ISC"
+}

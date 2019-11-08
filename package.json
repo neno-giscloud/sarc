@@ -1,10 +1,10 @@
 {
   "name": "sarc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn input into sarcasm",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/neno-giscloud/sarc"
+    "type": "git",
+    "url": "https://github.com/neno-giscloud/sarc"
   },
   "main": "index.js",
   "bin": "./index.js",
